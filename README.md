@@ -1,8 +1,9 @@
+[veja este documento formatado](https://rcadecaro.github.io/docblock-git/) 
+
 # Guia para uso do GIT
 
-[referencias no git](https://git-scm.com/book/pt-br/v1/Primeiros-passos) 
-[referencias no githowto](https://githowto.com/pt-BR) 
-
+- [referencias no git](https://git-scm.com/book/pt-br/v1/Primeiros-passos) 
+- [referencias no githowto](https://githowto.com/pt-BR) 
 
 [editar este documento no GitHub](https://github.com/rcadecaro/docblock-git/edit/master/README.md) 
 
