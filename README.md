@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Guia para uso do GIT
 
 You can use the [editor on GitHub](https://github.com/rcadecaro/docblock-git/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
